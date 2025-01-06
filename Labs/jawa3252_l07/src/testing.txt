@@ -1,0 +1,73 @@
+"""
+-------------------------------------------------------
+Lab  Testing
+-------------------------------------------------------
+Author:  Jaspreet Jawanda
+ID:      169083252
+Email:   jawa3252@mylaurier.ca
+Version: 2024-10-30
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess:50
+Too high, try again.
+Guess:40
+Too low, try again
+Guess:45
+Too high, try again.
+Guess:42
+Too high, try again.
+Guess:41
+Congratulations - good guess!
+You made 5 guesses.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+power_of_two(3) -> 4
+power_of_two(4) -> 4
+power_of_two(248) -> 256
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+positive_statistics() ->
+First positive value: 4.2
+Next positive value: 3.5
+Next positive value: 0
+Next positive value: 6.1
+Next positive value: -1
+
+(0.00, 6.10, 13.80, 3.45)
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+budget(200) ->
+Enter an expense (0 to quit): $150.00
+Enter another expense (0 to quit): $23.00
+Enter another expense (0 to quit): $12.00
+Enter another expense (0 to quit): $15.00
+Enter another expense (0 to quit): $37.50
+Enter another expense (0 to quit): $65.00
+Enter another expense (0 to quit): $0
+
+(302.50, -102.50, 'Deficit')
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+employee_payroll() ->
+Employee ID: 123
+Hourly wage rate: 45
+Hours worked: 46
+Net payment for employee 123: $2,125.07
+
+Employee ID: 124
+Hourly wage rate: 30
+Hours worked: 46
+Net payment for employee 124: $1,416.71
+
+Employee ID: 0
+
+(3,541.78, 1,770.89)
+-------------------------------------------------------

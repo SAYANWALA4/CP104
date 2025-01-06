@@ -1,0 +1,58 @@
+"""
+-------------------------------------------------------
+Lab  Testing
+-------------------------------------------------------
+Author:  Jaspreet Jawanda
+ID:      169083252
+Email:   jawa3252@mylaurier.ca
+Version: 2024-09-22
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+'Twinkle Twinkle Little Star' by Jane Taylor
+
+Twinkle, twinkle, little star,
+   How I wonder what you are!
+        Up above the world so high,
+        Like a diamond in the sky.
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Selected quotes from Mark Twain:
+
+"Do the right thing. It will gratify some people and astonish the rest."
+"All generalizations are false, including this one."
+"It is better to keep your mouth closed and let people think you are a fool
+than to open it and remove all doubt."
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter amount of dirt (m^3): 12  
+Enter amount of gravel (m^3): 12
+Enter amount of sand (m^3): 12
+
+Material   Cubic Metres
+Dirt         12.0
+Gravel       12.0
+Sand         12.0
+Total        36.0
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+Values
+First:  ___100
+Second: ____34
+Third:  ___933
+Total:  __1067
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+654321
+654321.000000
+654.320000
+Hello World
+-------------------------------------------------------
